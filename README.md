@@ -2,6 +2,9 @@
 
 # Introduction to IoT
 
+Name  : DANIEL GLORYO NADIRCO  
+NPM   : 23066020022
+
 Matriculation Resume of Introduction to Information Technology by
 Assoc. Prof. Dr. Basuki Rahmat, S.Si, MT, ITS-AI
 
